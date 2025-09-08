@@ -9,30 +9,30 @@
     <string name="paid_feature">Buka semua fitur seharga %s</string>
     <string name="unlock">Buka</string>
 
-    <string name="purchase_dialog_title">Upgrade your experience</string>
-    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
-    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
-    <string name="purchase_dialog_positive">Buy now</string>
-    <string name="purchase_dialog_negative">Later</string>
+    <string name="purchase_dialog_title">Tingkatkan pengalaman Audio kamu</string>
+    <string name="purchase_dialog_text">Pengalaman audio kamu bisa menjadi lebih baik hanya dengan %s</string>
+    <string name="purchase_dialog_refund">Google Play memastikan <annotation url="refund">jaminan 48 jam uang kembali</annotation> untuk kamu yang ingin mencoba semua fitur ini</string>
+    <string name="purchase_dialog_positive">Beli sekarang</string>
+    <string name="purchase_dialog_negative">Nanti</string>
 
     <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
     <string name="open_settings">Fix it</string>
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet on/off</string>
-    <string name="settings_title">Settings</string>
+    <string name="settings_title">Pengaturan</string>
     <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">Mode Lama</string>
-    <string name="settings_dump_permission">DUMP permission</string>
-    <string name="settings_notification_access">Notification access</string>
-    <string name="settings_permission_granted">Permission granted</string>
-    <string name="settings_permission_denied">Permission denied</string>
+    <string name="settings_dump_permission">Izin DUMP</string>
+    <string name="settings_notification_access">Akses Notifikasi</string>
+    <string name="settings_permission_granted">Izin diberikan</string>
+    <string name="settings_permission_denied">Izin ditolak</string>
     <string name="menu_help">Bantuan</string>
-    <string name="settings_buffer_size">Buffer size</string>
+    <string name="settings_buffer_size">Ukuran Buffer</string>
     <string name="clipping_over_latency">Clipping diutamakan dibanding latensi</string>
     <string name="latency_over_clipping">Latensi diutamakan dibanding clipping</string>
-    <string name="setting_enhanced_session_title">Enhanced session detection</string>
-    <string name="setting_enhanced_session_summary">Both permissions are required</string>
+    <string name="setting_enhanced_session_title">Peningkatan deteksi sesi media audio</string>
+    <string name="setting_enhanced_session_summary">Kedua izin tersebut diperlukan</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_name">Wavelet service</string>
@@ -123,4 +123,5 @@
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
     <string name="unit_samples">samples</string>
+
 </resources>
